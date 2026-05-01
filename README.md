@@ -114,9 +114,6 @@ After the first run, a `etf_config.json` file is created in the same folder:
 }
 ```
 
-> ⚠️ **Do not commit `etf_config.json` to Git** — it contains employee NIC numbers and employer details. It is already listed in `.gitignore`.
-
----
 
 ## Disclaimer
 
